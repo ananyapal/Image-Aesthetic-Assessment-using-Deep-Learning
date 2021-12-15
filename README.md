@@ -3,6 +3,9 @@ Image Aesthetic Assessment using Deep Learning based on the photography rules su
 This is the second and final part of my final year BE project. 
 The first part is contained here: https://github.com/ananyapal/Image-Aesthetics-Handcrafted
 
+## Code
+Although our dataset is not publicly available, the code for the training and testing are available and any image dataset can be used for training.
+
 ## Description
 - Coordinated a team of 4 and collected a dataset of 6000+ images satisfying 3 high-level photography rules as mentioned above.
 -	Preprocessed images into grayscale, resized and scaled into 128*128 images, and passed through 5 convolutional layers with Max Pooling and 2 fully connected layers (ReLU) and one output layer (Sigmoid).
